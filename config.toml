@@ -1,7 +1,7 @@
 languageCode = "en-us"
 title = "Way back in the good days"
 theme = "angels-ladder"
-baseurl = "http://31.24.74.155/blog/"
+baseurl = "http:/localhost/blog/"
 # baseurl = "https://alkc.github.io/"
 canonifyURLs = true
 publishDir = "../alkc.github.io"
