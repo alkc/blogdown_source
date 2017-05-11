@@ -1,0 +1,17 @@
+languageCode = "en-us"
+title = "Way back in the good days"
+theme = "angels-ladder"
+baseurl = "https://alkc.github.io/"
+# canonifyURLs = true
+publishDir = "../alkc.github.io"
+
+[Params]
+subtitle = "The days you didn't see"
+# facebook = "https://facebook.com/foobar"
+# twitter = "https://twitter.com/foobar"
+github = "https://github.com/alkc"
+showsRSS = true
+profile = "/images/nightmare.png"
+copyright = "Scribbled by Alexander Koc"
+# analytics = "UA-XXXXXXXX-X"
+# shareThis = "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX"
